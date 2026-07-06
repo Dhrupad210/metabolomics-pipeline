@@ -1,0 +1,106 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	CHMO	EFO	MI	MONDO	MS	MTBLS	NCBITaxon	NCIT	OBI
+Term Source File	http://purl.obolibrary.org/obo/chmo.owl	http://www.ebi.ac.uk/efo/efo.owl	http://purl.obolibrary.org/obo/mi.owl	https://purl.obolibrary.org/obo/mondo/mondo-international.owl	http://purl.obolibrary.org/obo/ms.owl	https://github.com/EBI-Metabolights/MtblsWS-Py/blob/main/resources/Metabolights.owl	http://purl.obolibrary.org/obo/ncbitaxon.owl	http://purl.obolibrary.org/obo/ncit.owl	http://purl.obolibrary.org/obo/obi.owl
+Term Source Version	2025-10-21	3.90.0		2026-05-05			2026-05-13	26.02d	2026-05-08
+Term Source Description	Chemical Methods Ontology	Experimental Factor Ontology	Molecular Interactions Controlled Vocabulary	Mondo Disease Ontology	Mass spectrometry ontology	MetaboLights Controlled Vocabulary	NCBI organismal classification	NCI Thesaurus OBO Edition	Ontology for Biomedical Investigations
+INVESTIGATION
+Investigation Identifier	MTBLS13136
+Investigation Title	Targeted metabolomic profiling and machine learning-based prediction models for persistent atrial fibrillation: a multi-center observational study
+Investigation Description	Created using the MetaboLights Online Editor (MOE)
+Investigation Submission Date	2025-10-14
+Investigation Public Release Date	2026-07-03
+Comment[Created With Configuration]	MetaboLightsConfig20150707
+Comment[Last Opened With Configuration]	MetaboLightsConfig20150707
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	MTBLS13136
+Study Title	Targeted metabolomic profiling and machine learning-based prediction models for persistent atrial fibrillation: a multi-center observational study
+Study Description	<p>Background.&nbsp;Atrial fibrillation (AF), the most common cardiac arrhythmia worldwide, carries a high risk of severe complications. Patients diagnosed with paroxysmal atrial fibrillation (PAF) may progress to persistent atrial fibrillation (PerAF) following a period. We aimed to identify metabolites associated with PerAF using machine learning (ML), and predict the probability of PAF progressing to PerAF, enabling the adjustment of subsequent treatments in clinical practice.</p><p>Methods.&nbsp;We enrolled AF patients without any anticoagulant therapy within the last 7 days between July 2020 and July 2022 in two centers in China. Targeted metabolomic profiling was performed on patient’s plasma. Differential metabolites and clinical features were identified through univariate and multivariate analyses. Patients were divided into discovery and validation cohorts (70%:30%). Four ML models (logistic regression, random forest, XGBoost, and LightGBM) were developed for PerAF prediction. Model predictive performance was measured mainly by AUC.</p><p>Results.&nbsp;One hundred patients (65 PerAF, 35 PAF) were enrolled. Eight metabolites (kynurenine, N-Acetylaspartic acid, glyceric acid, adipic acid, citramalic acid, malic acid, isocitric acid, and oxoglutaric acid) and two clinical features (NT-proBNP and uric acid) had significant associations with PerAF. Pathway enrichment analysis highlighted alterations in the citrate cycle and glyoxylate/dicarboxylate metabolism. XGBoost was chosen for establishing the final model, since its predictive performance outperformed that of other algorithms. The model&nbsp;based on clinical parameters, metabolites, and demographics&nbsp;achieved the highest AUC in discovery cohort (0.751 [95% CI 0.631~0.867]) and validation cohort (0.985&nbsp;[95% CI 0.940~1.000]). A simplified model with three features (NT-proBNP, citramalic acid, and uric acid) retained robust performance.</p><p>Conclusions.&nbsp;This study shows strengths in identifying eight PerAF-related metabolites via targeted metabolomics and ML, and developing accurate predictive models (including a simplified, clinically feasible model) to guide early PerAF intervention. Future directions include large-scale multi-center validation, incorporating more confounders, and using multiple platforms to deeply explore AF-related metabolic alterations.</p>
+Study Submission Date	2025-10-14
+Study Public Release Date	2026-07-03
+Study File Name	s_MTBLS13136.txt
+Comment[Created At]	2025-10-13
+Comment[License]	CC0 1.0 Universal
+Comment[Linked Study Accession]	
+Comment[MHD Model Version]	0.1
+Comment[Revision]	1
+Comment[Revision Date]	2026-07-03
+Comment[Revision Log]	Initial revision
+Comment[Sample Template]	minimum
+Comment[Study Category]	ms-mhd-legacy
+Comment[Study Template]	minimum
+Comment[Template Version]	1.0
+STUDY DESIGN DESCRIPTORS
+Study Design Type	atrial fibrillation	Metabolomics	Machine Learning	persistent atrial fibrillation	Paroxysmal atrial fibrillation
+Study Design Type Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0000275	http://purl.obolibrary.org/obo/NCIT_C49019	http://purl.obolibrary.org/obo/NCIT_C176231	http://purl.obolibrary.org/obo/MONDO_1030009	http://purl.obolibrary.org/obo/HP_0004757
+Study Design Type Term Source REF	EFO	NCIT	NCIT	MONDO	EFO
+STUDY PUBLICATIONS
+Study PubMed ID	
+Study Publication DOI	
+Study Publication Author List	Hao Gao, Yanxiu Chen, Pinliang Liao, Hong Chai, Li Zhong, Yuanting Cui, Huakang Li, Zhihui Zhang
+Study Publication Title	Targeted metabolomic profiling and machine learning-based prediction models for persistent atrial fibrillation: a multi-center observational study
+Study Publication Status	in preparation
+Study Publication Status Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0001795
+Study Publication Status Term Source REF	EFO
+STUDY FACTORS
+Study Factor Name	Disease
+Study Factor Type	disease
+Study Factor Type Term Accession Number	http://purl.obolibrary.org/obo/MONDO_0000001
+Study Factor Type Term Source REF	MONDO
+STUDY ASSAYS
+Study Assay File Name	a_MTBLS13136_LC-MS_alternating_reverse-phase_metabolite_profiling.txt
+Study Assay Measurement Type	untargeted analysis
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/MS_1003904
+Study Assay Measurement Type Term Source REF	MS
+Study Assay Technology Type	mass spectrometry assay
+Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000470
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	Liquid Chromatography MS - alternating - reverse phase
+Comment[Assay Identifier]	
+Comment[Assay Type Label]	LC-MS
+STUDY PROTOCOLS
+Study Protocol Name	Sample collection	Extraction	Chromatography	Mass spectrometry	Data transformation	Metabolite identification
+Study Protocol Type	Sample collection	Extraction	chromatography	mass spectrometry	data transformation	metabolite identification
+Study Protocol Type Term Accession Number	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_001100	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_001105	http://purl.obolibrary.org/obo/CHMO_0001000	http://purl.obolibrary.org/obo/CHMO_0000470	http://purl.obolibrary.org/obo/OBI_0200000	http://purl.obolibrary.org/obo/MI_2131
+Study Protocol Type Term Source REF	MTBLS	MTBLS	CHMO	CHMO	OBI	MI
+Study Protocol Description	<p class='ql-align-justify'>Venous blood samples were drawn from patients following the provision of informed consent. The samples were collected in ethylenediaminetetraacetic acid (EDTA) anticoagulant tubes and stored at 4℃. Blood samples transported to the laboratory within 5 hours of collection were centrifuged at 4℃&nbsp;and 1000×g for 10 min to obtain plasma. The separated plasma samples were subsequently stored at -80℃&nbsp;and maintained in a frozen state until&nbsp;further analysis via&nbsp;metabolomics.</p>	<p>All of the standards of targeted metabolites were obtained from Sigma-Aldrich (St. Louis, MO, USA), Steraloids Inc. (Newport, RI, USA) and TRC Chemicals (Toronto, ON, Canada). All the standards were accurately weighed and prepared in water, methanol, sodium hydroxide solution, or hydrochloric acid solution to obtain individual stock solution at a concentration of 5.0 mg/mL. Appropriate amount of each stock solution was mixed to create stock calibration solutions.&nbsp;Formic acid was of (Optima grade and obtained from Sigma-Aldrich (St. Louis, MO, USA). Methanol (Optima LC-MS), acetonitrile (Optima LC-MS), and isopropanol (Optima LC-MS) were purchased from Thermo-Fisher Scientific (FairLawn, NJ, USA). Ultrapure water was produced by a Mill-Q Reference system equipped with a LC-MS Pak filter (Millipore, Billerica, MA, USA).</p><p>Samples were thawed on ice-bath to diminish sample degradation. 20μL of plasma was added to a 96-well plate. Then the plate was transferred to the Eppendorf epMotion Workstation(Eppendorf Inc., Humburg, Germany). 120μL ice cold methanol with partial internal standards was automatically added to each sample and vortexed vigorously for 5 minutes. The plate was centrifuged at 4000g for 30 minutes (Allegra X-15R Beckman Coulter, Inc., Indianapolis, IN, USA). Then the plate was returned back to the workstation. 30μL of supernatant was&nbsp;transferred to a clean 96-well plate, and 20μL of freshly prepared derivative reagents was added to each well. The plate was sealed and the derivatization was&nbsp;carried out at 30℃&nbsp;for 60 min. After derivatization, 330μL of ice-cold 50% methanol solution was added to dilute the sample. Then the plate was stored at -20℃ for 20 minutes and followed by 4000g centrifugation at 4 ℃ for 30 minutes.</p>	<p>A ultra-performance liquid chromatography coupled to tandem mass spectrometry (UPLC-MS/MS) system (ACQUITY UPLC-Xevo TQ-S, Waters Corp., Milford, MA, USA) was used to quantitate all&nbsp;targeted metabolites in this project.The optimized instrument settings are briefly described below. The instrument performance optimization and routine maintenance were performedevery week.&nbsp;The settings of the UPLC-MS instrument are as follows: (1) Column: ACQUITY UPLC BEH C18 1.7 µM VanGuard pre-column (2.1×5 mm) and ACQUITY UPLC BEH C18 1.7 µM analytical column (2.1×100 mm); (2) Column Temp.: 40℃; (3) Sample Manager Temp.: 10℃; (4) Mobile Phases: A=water with 0.1% formic acid; and B=acetonitrile/IPA (70:30); (5) Gradient Conditions: 0-1 min (5% B), 1-11min (5-78% B), 11-13.5 min (78-95% B), 13.5-14 min (95-100% B), 14-16 min (100% B), 16-16.1min (100-5% B), 16.1-18 min (5% B); (6) Flow Rate (mL/min): 0.40; (7) Injection Vol. (µl): 5.0.</p>	<p>A ultra-performance liquid chromatography coupled to tandem mass spectrometry (UPLC-MS/MS) system (ACQUITY UPLC-Xevo TQ-S, Waters Corp., Milford, MA, USA) was used to quantitate all&nbsp;targeted metabolites in this project.The optimized instrument settings are briefly described below. The instrument performance optimization and routine maintenance were performedevery week.&nbsp;The settings of the MASS SPECTROMETER instrument are as follows: (1) Capillary (Kv):1.5 (ESI+), 2.0 (ESI-); (2) Source Temp.: 150℃; (3) Desolvation Temp.: 550℃; Desolvation Gas Flow (L/Hr):1000.</p>	<p>The raw data files generated by UPLC-MS/MS were processed using the TMBQ software to perform peak integration, calibration, and quantitation for each metabolite. The platform iMAP as used for statistical analyses, including PCA, OPLS-DA, univariate analysis and pathway analysis, et al.&nbsp;Our proprietary software can perform a collection of data processing, interpretation, and visualization. For many metabolomics studies, two types of statistical analysis are extensively performed: 1) multivariate statistical analyses such as principal component analysis (PCA), partial least square discriminant analysis (PLS-DA), orthogonal partial least square discriminant analysis (OPLS-DA), random forest, support vector machine learning and so on; 2) univariate statistical analyses including student t-test, Mann-Whitney-Wilcoxon (U-test), ANOVA, correlation analysis, etc. The optimal choice of statistical methods is often driven by the data and the project goals.</p>	<p>Mass spectrometry-based quantitative metabolomics refers to the determination of the concentration of a substance in an unknown sample by comparing the unknown to a set of standard samples of known concentration (i.e., calibration curve). The calibration curve is a plot of how the analytical signal changes with the concentration of the analyte (the substance to be measured). For most analyses a plot of instrument response vs. concentration will show a linear relationship. This yields a model described by the equation y = ax + b, where y is the instrument response e.g., peak height or area, a represents the slope/sensitivity, and b is a constant that describes the background. The analyte concentration (x) of unknown samples may be calculated from this equation.</p>
+Study Protocol URI						
+Study Protocol Version						
+Study Protocol Parameters Name		Post Extraction;Derivatization	Chromatography Instrument;Autosampler model;Column model;Column type;Guard column	Scan polarity;Scan m/z range;Instrument;Ion source;Mass analyzer		
+Study Protocol Parameters Name Term Accession Number		;	;;;;	;;;;		
+Study Protocol Parameters Name Term Source REF		;	;;;;	;;;;		
+Study Protocol Components Name						
+Study Protocol Components Type						
+Study Protocol Components Type Term Accession Number						
+Study Protocol Components Type Term Source REF						
+STUDY CONTACTS
+Study Person Last Name	Zhang
+Study Person First Name	Zhihui
+Study Person Mid Initials	
+Study Person Email	xyzpj@tmmu.edu.cn
+Study Person Phone	
+Study Person Fax	
+Study Person Address	
+Study Person Affiliation	Southwest Hospital, Army Medical University
+Study Person Roles	Principal Investigator
+Study Person Roles Term Accession Number	http://purl.obolibrary.org/obo/NCIT_C19924
+Study Person Roles Term Source REF	NCIT

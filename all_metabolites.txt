@@ -1,0 +1,197 @@
+GCDCA-3S
+Isocitric acid
+Malic acid
+Oxoglutaric acid
+Citramalic acid
+N-Acetyaspartic acid
+Adipic acid
+Glyceric acid
+Kynurenine
+Phenylalanine
+Hydroxyphenyllactic acid
+Methylmalonic acid
+Succinic acid
+Homovanillic acid
+2-Hydroxy-3-methylbutyric acid
+Creatine
+N-Acetylserine
+Adipoylcarnitine
+Oxoadipic acid
+Linoleylcarnitine
+Azelaic acid
+2-Hydroxyglutaric acid
+Methylmalonylcarnitine
+Glycolic acid
+Citric acid
+Methylcysteine
+Malonylcarnitine
+Sebacic acid
+CDCA
+1-Methylhistidine
+Maleic acid
+Fumaric acid
+Oleylcarnitine
+Aconitic acid
+Suberic acid
+p-Hydroxyphenylacetic acid
+Dodecanoylcarnitine
+Alanine
+NorCA
+Phenyllactic acid
+Glutaric acid
+Octanoylcarnitine
+Tyrosine
+Glutamine
+Imidazolepropionic acid
+GCDCA
+Dimethylglycine
+Decanoylcarnitine
+2-Methylbutyroylcarnitine
+Methylglutaric acid
+GUDCA
+Methylsuccinic acid
+GCA
+Palmitoylcarnitine
+GLCA-3S
+Pimelic acid
+Ornithine
+UDCA
+Methionine
+Sarcosine
+Asparagine
+Stearylcarnitine
+2-Hydroxycaproic acid
+GDCA-3S
+Pipecolic acid
+gamma-Glutamylalanine
+Xylulose
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid
+Tetradecanoylcarnitine
+Ribulose
+3-Hydroxyisovaleric acid
+CA
+TCDCA
+5Z-Dodecenoic acid
+Rhamnose
+Arginine
+Glucaric acid
+Glutarylcarnitine
+Hexanylcarnitine
+Salicyluric acid
+Homocitrulline
+Tartaric acid
+Acetylcarnitine
+LCA-3S
+Lactic acid
+Indoleacetic acid
+"6,7-DiketoLCA"
+Ethylmethylacetic acid
+TCA
+bUDCA
+9E-tetradecenoic acid
+Acetylglycine
+Histidine
+Tryptophan
+alpha-Aminobutyric acid
+Pyruvic acid
+Valine
+Maltose/Lactose
+Butyrylcarnitine
+3-Hydroxylisovalerylcarnitine
+Decanoic acid
+Threonine
+Nicotinic acid
+Benzoic acid
+Propionylcarnitine
+Fructose
+Guanidoacetic acid
+3-Hydroxybutyric acid
+Pentadecanoic acid
+Ketoleucine
+Hydrocinnamic acid
+Isovalerylcarnitine
+Erythronic acid
+2-Hydroxybutyric acid
+Threonic acid
+2-Butenoic acid
+Linoelaidic acid
+Picolinic acid
+Isoleucine
+Palmitoleic acid
+Mandelic acid
+Isobutyric acid
+Oleic acid
+AMP
+N-Acetylneuraminic acid
+DPAn-6
+Ricinoleic acid
+Malonic acid
+Gluconolactone
+alpha-Linolenic acid
+2-Phenylpropionate
+GABA
+Isocaproic acid
+gamma-Linolenic acid
+Isovaleric acid
+Galactonic acid
+Linoleic acid
+Hippuric acid
+Aminocaproic acid
+Carnitine
+Aspartic acid
+10Z-Heptadecenoic acid
+Glycylproline
+EPA
+alpha-Ketoisovaleric acid
+Indole-3-pyruvic acid
+10Z-Nonadecenoic acid
+Glutamic acid
+Dihomo-gamma-linolenic acid
+Propionic acid
+Butyric acid
+Indolelactic acid
+TDHCA
+12-Hydroxystearic acid
+Indole-3-propionic acid
+Caproic acid
+Serine
+"2,2-Dimethylsuccinic acid"
+Phenylacetic acid
+Phenylpyruvic acid
+DHA
+Myristoleic acid
+Hydroxypropionic acid
+Arachidonic acid
+beta-Alanine
+5-Aminolevulinic acid
+4-Hydroxyproline
+Gallic acid
+Phthalic acid
+Petroselinic acid
+Proline
+N-Methylnicotinamide
+Valerylcarnitine
+Myristic acid
+Indole-3-methyl acetate
+DPA
+alpha-Hydroxyisobutyric acid
+Valeric acid
+Palmitelaidic acid
+Acetic acid
+Phenylacetylglutamine
+Lysine
+Glutaconic acid
+Homoserine
+Glyceraldehyde
+3-Methyl-2-oxopentanoic acid
+Glycine
+Tridecanoic acid
+Octanoic acid
+Leucine
+Pyroglutamic acid
+Adrenic acid
+Citrulline
+4-Methylhexanoic acid
+2-Methy-4-pentenoic acid
+GDCA
+DCA
