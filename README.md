@@ -15,6 +15,7 @@ model (AUC 0.751 discovery / 0.985 validation).
 3. **Validation against paper**: reproduced all 8 reported metabolites via Mann-Whitney U
    test (all p<0.005), confirming matrix integrity. One metabolite had a typo in the
    source data (`N-Acetyaspartic acid`, missing an "l").
+4. **Run Via**: mtbls13136_pipeline.py
 
 ## Differential analysis
 Mann-Whitney U + Benjamini-Hochberg FDR across 197 metabolites.
